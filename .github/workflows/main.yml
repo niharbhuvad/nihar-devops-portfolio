@@ -21,4 +21,4 @@ jobs:
           aws-region: us-east-1
 
       - name: Deploy Static Site to S3
-        run: aws s3 sync . s3://web-hosting --delete
+        run: aws s3 sync . s3://web-hosting-nihar --delete
