@@ -6,7 +6,20 @@ This project focuses on creating a clean professional personal website that can 
 
 🌟 Preview
 
-(Add screenshot here later)
+<img width="1881" height="824" alt="image" src="https://github.com/user-attachments/assets/1bf32334-f3c7-44fa-bc89-5d1148bf0d8a" />
+
+Skills Section:
+<img width="1829" height="372" alt="image" src="https://github.com/user-attachments/assets/f370a960-1ff4-4fa4-b457-d69b9cb0f13c" />
+
+Projects Section:
+<img width="1825" height="415" alt="image" src="https://github.com/user-attachments/assets/bf7ffda6-4b6f-4ed5-a3b8-af73b0dbf9ec" />
+
+Contact Section:
+<img width="543" height="397" alt="image" src="https://github.com/user-attachments/assets/ef17752a-a127-44bf-8d28-7c3954540561" />
+
+
+
+
 
 ✨ Features
 
@@ -20,13 +33,13 @@ This project focuses on creating a clean professional personal website that can 
 
 🧑‍💻 Sections for:
 
-Introduction / Hero
+-Introduction / Hero
 
-Skills
+      -Skills
 
-Projects
+      -Projects
 
-Contact information
+      -Contact information
 
 🌐 Ready for cloud deployment
 
