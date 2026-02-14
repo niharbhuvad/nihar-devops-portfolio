@@ -33,7 +33,7 @@ Contact Section:
 
 🧑‍💻 Sections for:
 
--Introduction / Hero
+      -Introduction / Hero
 
       -Skills
 
@@ -43,12 +43,10 @@ Contact Section:
 
 🌐 Ready for cloud deployment
 
-🛠️ Built With
+🛠️ Built With:
 
 HTML5 – Structure
-
 CSS3 – Styling & layout
-
 JavaScript – Interactivity & animations
 
 📁 Project Structure
@@ -69,55 +67,44 @@ cd portfolio-website
 
 Simply open:
 
-index.html
+index.html in your browser.
 
-
-in your browser.
-
-🌍 Deployment Options
+🌍 Deployment Options:
 
 This is a static website, so it can be deployed easily on:
 
 AWS S3 Static Hosting
-
 GitHub Pages
-
 Nginx / Apache server
-
 Netlify / Vercel
 
 🎯 Purpose of This Project
 
 This portfolio was created to:
-
 Showcase my DevOps learning journey
-
 Present my cloud & automation projects
-
 Provide a base site for hosting and CI/CD experiments
-
 Practice frontend fundamentals for personal branding
 
-👨‍💻 Author
+👨‍💻 Author:
+Nihar Bhuvad
 
-Nihar
 Aspiring DevOps Engineer
 
 GitHub: https://github.com/niharbhuvad
-
 LinkedIn: https://linkedin.com/in/nihar-bhuvad
 
-🔮 Future Improvements
+🔮 Future Improvements:
 
-Add project GitHub links
+            -Add project GitHub links
 
-Add downloadable resume button
+            -Add downloadable resume button
 
-Add blog section
+            -Add blog section
 
-Add dark/light theme toggle
+            -Add dark/light theme toggle
 
-Add contact form with backend integration
+            -Add contact form with backend integration
 
 📜 License
 
