@@ -60,7 +60,7 @@ portfolio-website/
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/niharbhuvad/portfolio-website.git
+git clone https://github.com/niharbhuvad/nihar-devops-portfolio.git
 
 2️⃣ Open the project
 cd portfolio-website
